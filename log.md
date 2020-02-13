@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 13, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Used GitHub for the first time ever, worked on my pset4 in CS50.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Some Thoughts:** I am really excited today for starting this challenge. I have been a student of CS for the past 3 years but haven't done anything proper or learnt anything. Last semester we were taught Java but because of the poor infrastructure of my university and my laziness I didn't learn much. On top of that our teacher just gave ONE assignment IN THE WHOLE SEMESTER. At the end, the blame is on me because I don't really have an excuse in this age of tech where there are so many resources available online.
+I always was afraid to login to GitHub and see what it is but today was the day that I said enough is enough and I need to do something about my life. I'm currently reading a book my Mark Manson and it's really inspiring a change in me and I hope that I remain consistent this time around.
+In pset4, we're required to applying filters on bmp image file. Those filters are Grayscale(Done), Sepia(Done), Mirror(Can't figure out how to do it yet) and Blur(Pending). I tried swaping the pixels but it didn't work out. I have to think of something else tomorrow.
