@@ -11,5 +11,15 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 2: February 14 ,2020. 
 
 **Today's Progress:** Logic for blurring and mirroring a bitmap image in my Pset4 in CS50.
+
 **Time Spent in Coding:** ~ 2 hours.
+
 **Thoughts:** Working on pset4. Completed the logic for it but I am getting some errors and I have to solve them yet. Due to tight schedule I couldn't complete it today. Tomorrow I hope to fix it and by the end of this weekend I hope to solve the Pset4. I was thinking about starting the FreeCodeCamp because I have a subject: Web Based Application Development and I think this camp will help me a lot in learning at a fast pace. Our teacher told us a little bit about HTML, CSS, JavaScript and JQuery today.The real stuff will start from Monday and I am excited about the course but not the teaching style of the teacher because usually the teachers at my uni teach at a very slow pace and I get frustrated at that. That's it for today!
+
+### Day 3: February 15, 2020.
+
+**Today's Progress:** Completed the first part of Pset4 in CS50 and 50% of Basic HTML at freecodecamp.org.
+
+**Time Spent in Coding:** ~ 2.5 hours.
+
+**Thoughts:** Had to take some hints from the discord server because I brainstormed but I was making a small mistake which I corrected later on. Started the course on FreeCodeCamp and I am loving it. The way they have made the website, the way the lessons are listed, the interactivity; they all make you wanna do more and more in a single sitting and just keep on learning. I'm excited about this new coding journey that I have started and I am proud of myself for overcoming my incosistency and lack of determination.
