@@ -23,3 +23,11 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Time Spent in Coding:** ~ 2.5 hours.
 
 **Thoughts:** Had to take some hints from the discord server because I brainstormed but I was making a small mistake which I corrected later on. Started the course on FreeCodeCamp and I am loving it. The way they have made the website, the way the lessons are listed, the interactivity; they all make you wanna do more and more in a single sitting and just keep on learning. I'm excited about this new coding journey that I have started and I am proud of myself for overcoming my incosistency and lack of determination.
+
+### Day 4: February 16, 2020.
+
+**Today's Progrss:** Completed the chapter of Basic HTML and 50% of CSS
+
+**Time Spent in Coding:** ~1 hour
+
+**Thoughts:** Started off with HTMl and learnt about forms, labels, input, divs, radio input, checkboxes and buttons. Then in CSS, they taught me about color, fonts, inline styling, internal styling, external stylesheets, classes, ids, borders, padding and margin. I learnt these things before but I have forgotten about them so I am trying to fly throught the course for now. 
