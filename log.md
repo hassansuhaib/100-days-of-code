@@ -39,3 +39,11 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Time Spent Learning:** ~40 mins
 
 **Thoughts:** CSS is getting harder but I have to keep up with it so I can learn Web Development in its true sense. FreeCodeCamp is teaching things that I have never ever seen before in any course like using ":root", @media and variable. Now I have started the chapter of Applied Visual Design and I hope to learn some real stuff and then apply it later on. Didn't get the time to invest in Pset4 today and will do that tomorrow In Shaa Allah!
+
+### Day 6: February 18, 2020.
+
+**Today's Progress:** Completed 73# of Appied Visual Design on FreeCodeCamp
+
+**Time Spent Learning:** ~1 Hour
+
+**Thoughts:** Today I learned some really intriguing stuff. I've now realized how powerful CSS is. You can animate, create a penguin, apply gradients and all kinds of stuff. I hope to make awesome websites using all this code in the future. It will be fun. I'm thinking about learning flutter so that I can make apps in it to participate in the upcoming competition in Lahore where I can compete in either App Development or Web Application Development.
