@@ -49,8 +49,15 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Thoughts:** Today I learned some really intriguing stuff. I've now realized how powerful CSS is. You can animate, create a penguin, apply gradients and all kinds of stuff. I hope to make awesome websites using all this code in the future. It will be fun. I'm thinking about learning flutter so that I can make apps in it to participate in the upcoming competition in Lahore where I can compete in either App Development or Web Application Development.
 
 ### Day 7: February 19, 2020.
+
 **Today's Progress:** Completed the chapter of Applied Visual Design on FreeCodeCamp and started the pset4 part2.
 
 **Time Spent Learning:** ~1 hour
 
 **Thoughts:** I started doing part 2 of Pset4 of CS50 by fighting the excrutiating pain that brain interprets when faced with a challenging task which result in procratination. Then FCC(FreeCodeCamp) taught me about animations today and it was pretty exciting. Learned about animation-duration, @keyframes, animation-fill-mode, animation-name, animation-timing-funtion, and animation-iteration-count. Had a lot fun animation stuff. Tomorrow I'll start the chapter of Applied Accessibility. Tried creating a pull request on GitHub but turns out you can't approve your own pull requests :(
+
+### Day 8: February 20, 2020.
+
+**Today's Progress:** Completed almost half of the Applied Accessibility Chapter.
+
+**Thoughts:** Today was quite a hectic day so I didn't get to do a lot of learning no FreeCodeCamp. Learnt about audio, nav, article, main, alt atribute, header, head and footer tags today. Can't wait to build real projects soon! I did register for a competition SOFTEC '20 in Web Development and hope to do something half decent over there.
