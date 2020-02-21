@@ -61,3 +61,9 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Today's Progress:** Completed almost half of the Applied Accessibility Chapter.
 
 **Thoughts:** Today was quite a hectic day so I didn't get to do a lot of learning no FreeCodeCamp. Learnt about audio, nav, article, main, alt atribute, header, head and footer tags today. Can't wait to build real projects soon! I did register for a competition SOFTEC '20 in Web Development and hope to do something half decent over there.
+
+### Day 9: February 21, 2020.
+
+**Today's Progress:** Complete the Applied Accessibilty Chapter.
+
+**Thoughts:** I had free time earlier in the day and I have to travel later in the day, so I thought why not take my daily dose of code. I learned about tableindex, date, time, hiding a table, accesskey, fieldset etc. Hope to apply all these good practices when I am buidling my own designs.
