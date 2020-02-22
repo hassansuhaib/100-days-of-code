@@ -64,6 +64,12 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 ### Day 9: February 21, 2020.
 
-**Today's Progress:** Complete the Applied Accessibilty Chapter.
+**Today's Progress:** Completed the Applied Accessibilty Chapter.
 
 **Thoughts:** I had free time earlier in the day and I have to travel later in the day, so I thought why not take my daily dose of code. I learned about tableindex, date, time, hiding a table, accesskey, fieldset etc. Hope to apply all these good practices when I am buidling my own designs.
+
+### Day 10: February 22, 2020.
+
+**Today's Progress:** Nailed the chapter of Flex-Box on @freecodecamp
+
+**Thoughts:** Understood the concept of flex-box. It really makes designing the webpage easier. Learned attributes like flex-direction, justify-content, self-allign, dispaly etc. After the next chapter, our exercise is to make 5 projects i.e complete web designs. I'm very looking forward to it because I can't wait to implement the things that I have learnt. 
