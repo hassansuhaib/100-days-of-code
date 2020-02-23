@@ -73,3 +73,9 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Today's Progress:** Nailed the chapter of Flex-Box on @freecodecamp
 
 **Thoughts:** Understood the concept of flex-box. It really makes designing the webpage easier. Learned attributes like flex-direction, justify-content, self-allign, dispaly etc. After the next chapter, our exercise is to make 5 projects i.e complete web designs. I'm very looking forward to it because I can't wait to implement the things that I have learnt. 
+
+### Day 11: February 23, 2020.
+
+**Today's Progress:** Completed almost half of the chapter of CSS Grid
+
+**Thoughts:** Today I learned that the difference between Flexbox and CSS Grid is the flexbox can either deal with row or column at a time while CSS Grid deals with Rows and Columns simultaniously. Today's attributes were display: grid, grid-template-column, grid-template-row, justify-self, allign-self, grid-columns, grid-rows etc.
