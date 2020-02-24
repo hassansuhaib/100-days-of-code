@@ -79,3 +79,9 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Today's Progress:** Completed almost half of the chapter of CSS Grid
 
 **Thoughts:** Today I learned that the difference between Flexbox and CSS Grid is the flexbox can either deal with row or column at a time while CSS Grid deals with Rows and Columns simultaniously. Today's attributes were display: grid, grid-template-column, grid-template-row, justify-self, allign-self, grid-columns, grid-rows etc.
+
+### Day 12: February 24, 2020.
+
+**Today's Progress:** Completed the chapter on CSS Grid on @freecodecamp
+
+**Thoughts:** I tried to do the project but I instantly forgot everything and I am worried about how will I ever be able to learn when I have this weak memory. Although I do admit that I didn't practice enough due to lack of time. I hope that I can recall all stuff and practice. I will make some projects out of FreeCodeCamp to see how much I have learned. May God help me!
