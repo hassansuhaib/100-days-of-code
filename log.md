@@ -85,3 +85,11 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Today's Progress:** Completed the chapter on CSS Grid on @freecodecamp
 
 **Thoughts:** I tried to do the project but I instantly forgot everything and I am worried about how will I ever be able to learn when I have this weak memory. Although I do admit that I didn't practice enough due to lack of time. I hope that I can recall all stuff and practice. I will make some projects out of FreeCodeCamp to see how much I have learned. May God help me!
+
+### Day 13: February 25, 2020.
+
+**Today's Progress:** Designed the Tribute page as my First Responsive Web Design Project @freecodecamp
+
+**Thoughts:** At first I was intimidated and couldn't think of anything but then I started coding and came up with something half decent. I am trying my best to at least become able to make decent pages even using BootStrap but a person should be aware of the basic concepts of something that they are learning. I have become familiar with basic concepts but I keep forgetting the syntax and I am sure that as I keep learning and practicing, I will become an expert. It just takes time, patience and consistency.
+
+[Link to my lame tribute page :(](https://www.google.com "My Tribute Page")
