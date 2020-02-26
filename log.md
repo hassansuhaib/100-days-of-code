@@ -93,3 +93,9 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Thoughts:** At first I was intimidated and couldn't think of anything but then I started coding and came up with something half decent. I am trying my best to at least become able to make decent pages even using BootStrap but a person should be aware of the basic concepts of something that they are learning. I have become familiar with basic concepts but I keep forgetting the syntax and I am sure that as I keep learning and practicing, I will become an expert. It just takes time, patience and consistency.
 
 [Link to my lame tribute page :(](https://codepen.io/hassansuhaib/pen/eYNgWyR "My Tribute Page")
+
+### Day 14: February 26, 2020.
+
+**Today's Progress:** Just a little bit code of Project "Survey Form" @freecode camp
+
+**Thoughts:** Was very busy today learning CPU Registers for the upcoming quiz and teaching a fellow student. I can't think of anything else to write over here so I am gonna sign off!! Looking forward to a good day tomorrow!
