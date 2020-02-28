@@ -105,3 +105,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 **Today's Progress:** Not much just a revision of CSS
 
 **Thoughts:** Today was again a very hectic day and didn't get enough time to use my computer. But I did revise some CSS for a quiz. I'm thinking of starting a course on YouTube alongside @freeCodeCamp just to consolidate the concepts.
+
+## Day 16: February 28, 2020.
+
+**Today's Progress:** Completed the HTML part of Project 2 in Responsive Web Design @freecodecamp
