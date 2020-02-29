@@ -109,3 +109,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ## Day 16: February 28, 2020.
 
 **Today's Progress:** Completed the HTML part of Project 2 in Responsive Web Design @freecodecamp
+
+# Day 17: February 29, 2020.
+
+**Today's Progress:** Practiced a lot of CSS building project 2 @freecodecamp. Still working on it though. Gonna finish it tomorrow!
