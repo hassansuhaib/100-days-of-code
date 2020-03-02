@@ -117,3 +117,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 18: March 1, 2020.
 
 **Today's Progress:** Completed project 2 @freecodecamp. Didn't work one the main tag whole heartedly because I was too tired and bored.
+
+### Day 19: March 2, 2020.
+
+**Today's Progres:** Almost completed Project 3: Product Landing Page at @freeCodeCamp. Just a little bit of work is left. The most difficult part is positioning the items but I'm making progress. Actually I'm getting fast at figuring out stuff in #CSS & #HTML. Will complete it tomorrow!
