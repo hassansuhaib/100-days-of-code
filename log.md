@@ -126,6 +126,10 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 **Today's Progress:** Finished Project 3 of Responsive Web Design @freeCodeCamp. Learned a lot doing this one. I'm getting better and fast at figuring out things. Also started the JavaScript portion and hope to complete it soon because most of my concepts of programming are already clear. Peace out ✌️
 
-### Day 20: March 4, 2020.
+### Day 21: March 4, 2020.
 
 **Today's Progress:** Completed 50% of JavaScript at @freeCodeCamp. Covered some basic concepts including strings, arrays, functions, etc. Now about to read a bit about Computer Networks. Peace out. ✌️
+
+### Day 22: March 5, 2020.
+
+**Today's Progress:** Completed an assignment and implemented the grid for the first time. Had a lot of fun learning that stuff and honing my skills of CSS. Peace Out✌️
