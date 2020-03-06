@@ -133,3 +133,8 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 22: March 5, 2020.
 
 **Today's Progress:** Completed an assignment and implemented the grid for the first time. Had a lot of fun learning that stuff and honing my skills of CSS. Peace Out✌️
+
+### Day 23: March 6, 2020.
+
+**Today's Progress:** Learned conditional statements but also events in JavaScript. Yeah, the sequence doesn't make sense but it happened. I was traveling today so didn't write much code and on top of that, I forgot my laptop charger at uni hostel. That was my day! :(
+
