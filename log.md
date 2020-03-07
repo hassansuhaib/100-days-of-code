@@ -138,3 +138,6 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 **Today's Progress:** Learned conditional statements but also events in JavaScript. Yeah, the sequence doesn't make sense but it happened. I was traveling today so didn't write much code and on top of that, I forgot my laptop charger at uni hostel. That was my day! :(
 
+### Day 24: March 7, 2020. 
+
+**Today's Progress:** Finished 70% of JavaScript at @freeCodeCamp. Revised comparison operators, conditional statements and switch statement. As always enjoyed it. Peace
