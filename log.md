@@ -141,3 +141,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 24: March 7, 2020. 
 
 **Today's Progress:** Finished 70% of JavaScript at @freeCodeCamp. Revised comparison operators, conditional statements and switch statement. As always enjoyed it. Peace
+
+### Day 25: March 8, 2020.
+
+**Today's Progress:** I was traveling today so I had less time to spent coding, but I managed to learn about objects in JavaScript on @freeCodeCamp. TBH I don't like the syntax of objects in JavaScript compared to C++ and Java. Peace ✌️
