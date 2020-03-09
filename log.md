@@ -145,3 +145,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 25: March 8, 2020.
 
 **Today's Progress:** I was traveling today so I had less time to spent coding, but I managed to learn about objects in JavaScript on @freeCodeCamp. TBH I don't like the syntax of objects in JavaScript compared to C++ and Java. Peace ✌️
+
+### Day 26: March 9, 2020.
+
+**Today's Progress:** I started working on Project 4 in Responsive Web Design @freeCodeCamp. Completed almost 60% of  it. Was not in the mood today but still forced myself into coding.
