@@ -153,3 +153,8 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 27: March 10, 2020.
 
 **Today's Progress:** Worked on Project 4 of Responsive Web Design at @freeCodeCamp. After making the project I realized that I messed up the design. Watched @florinpop1705's video for guidance and turns out there's so much stuff that I don't know :( Although I am trying my best to learn it all. I still don't know what overflow does and couldn't understand it even upon looking it up. Will try again. I need to revise Flex and Grid once again! That's been it for today. Peace ✌️
+
+### Day 28: March 11, 2020.
+
+**Today's Progress:** Completed some lessons on JavaScript which makes 80% of Progress in the JavaScript course at 
+@freeCodeCamp. I'm really feeling lazy these days and I don't know what's the remedy for that. Tomorrow I will write a lot of code though.
