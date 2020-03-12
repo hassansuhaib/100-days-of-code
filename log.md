@@ -158,3 +158,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 **Today's Progress:** Completed some lessons on JavaScript which makes 80% of Progress in the JavaScript course at 
 @freeCodeCamp. I'm really feeling lazy these days and I don't know what's the remedy for that. Tomorrow I will write a lot of code though.
+
+### Day 29: March 12, 2020.
+
+**Today's Progress:** I had a very busy day but managed to fiddle with a bit of #JavaScript code but didn't do a lot. I know I said that I would do more today but the motivation didn't work cause of a hectic schedule and delay of Assignment given to us by our teacher.
