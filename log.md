@@ -162,3 +162,8 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 29: March 12, 2020.
 
 **Today's Progress:** I had a very busy day but managed to fiddle with a bit of #JavaScript code but didn't do a lot. I know I said that I would do more today but the motivation didn't work cause of a hectic schedule and delay of Assignment given to us by our teacher.
+
+### Day 30: March 13, 2020.
+
+Woah! 30% of the challenge is done already? Nice!
+**Today's Progress:** Covered the topics on loop at @freeCodeCamp. JavaScript is fun TBH but I guess it will be difficult as the lessons become advanced. Happy Coding!
