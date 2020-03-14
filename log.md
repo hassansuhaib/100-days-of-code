@@ -167,3 +167,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 Woah! 30% of the challenge is done already? Nice!
 **Today's Progress:** Covered the topics on loop at @freeCodeCamp. JavaScript is fun TBH but I guess it will be difficult as the lessons become advanced. Happy Coding!
+
+### Day 31: March 14, 2020.
+
+**Today's Progress:** Learned recursion in JavaScript. I don't know why I get confused when it comes to recursion even though I have studied it for quite a while now. Anyway, Basic JavaScript is almost finished at @freeCodeCamp. I will complete it tomorrow!
