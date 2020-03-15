@@ -171,3 +171,8 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 31: March 14, 2020.
 
 **Today's Progress:** Learned recursion in JavaScript. I don't know why I get confused when it comes to recursion even though I have studied it for quite a while now. Anyway, Basic JavaScript is almost finished at @freeCodeCamp. I will complete it tomorrow!
+
+### Day 32: March 15, 2020.
+
+**Today's Progress:** I completed the chapter on JavaScript at 
+@freeCodeCamp. Me siento muy feliz y emocionado. I will start ES6 tomorrow and I know that it's a very important chapter. That's it for today.
