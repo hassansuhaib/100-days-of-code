@@ -176,3 +176,7 @@ Woah! 30% of the challenge is done already? Nice!
 
 **Today's Progress:** I completed the chapter on JavaScript at 
 @freeCodeCamp. Me siento muy feliz y emocionado. I will start ES6 tomorrow and I know that it's a very important chapter. That's it for today.
+
+### Day 33: March 16, 2020.
+
+**Today's Progress:** I have started ES6 after JavaScript at freeCodeCamp. The concepts explained in this chapter are very important. I know I have projects pending from Responsive Web Design and I intend to do them soon. 
