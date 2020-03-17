@@ -180,3 +180,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 33: March 16, 2020.
 
 **Today's Progress:** I have started ES6 after JavaScript at freeCodeCamp. The concepts explained in this chapter are very important. I know I have projects pending from Responsive Web Design and I intend to do them soon. 
+
+### Day 34, March 17, 2020.
+
+**Today's Progress:** Did some lessons on ES6 at #freeCodeCamp. Man, it is so weird, like you learn something and then you unlearn it and learn some other ways to do it. Not liking ES6 so far.
