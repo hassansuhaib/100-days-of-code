@@ -188,3 +188,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 35: March 18, 2020.
 
 **Today's Progress:** The ES6 is driving me crazy because it's so different from conventional programming syntax that I am used to. Anyway, I did some lessons on it at #freeCodeCamp and learned some weird stuff.
+
+### Day 36: March 19, 2020.
+
+**Today's Progress:** Today I started a course on Python at Cisco NetAcad. Now, I am building a Calculator using HTML, CSS, and JavaScript but what's special is that I'll be using git along the way to get familiar with it. So yeah, Happy Coding!
