@@ -192,3 +192,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 36: March 19, 2020.
 
 **Today's Progress:** Today I started a course on Python at Cisco NetAcad. Now, I am building a Calculator using HTML, CSS, and JavaScript but what's special is that I'll be using git along the way to get familiar with it. So yeah, Happy Coding!
+
+### Day 37: March 20, 2020.
+
+**Today's Progress:** Completed a Module on Python at @Cisco. Made a Calculator in JavaScript by copy-pasting code to complete an assignment because I don't know event handling. Took some lessons on ES6 at #freeCodeCamp. Used git.
