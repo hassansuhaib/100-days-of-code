@@ -196,3 +196,8 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 37: March 20, 2020.
 
 **Today's Progress:** Completed a Module on Python at @Cisco. Made a Calculator in JavaScript by copy-pasting code to complete an assignment because I don't know event handling. Took some lessons on ES6 at #freeCodeCamp. Used git.
+
+### Day 38: March 21, 2020.
+
+**Today's Progress:** I finished the chapter on ES6 at #freeCodeCamp. Worked on PSet4 part 2(recover) of 
+@cs50. Learned DOM Manipulation from a course on Udemy. Happy with my progress today. 
