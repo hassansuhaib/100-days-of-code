@@ -201,3 +201,7 @@ Woah! 30% of the challenge is done already? Nice!
 
 **Today's Progress:** I finished the chapter on ES6 at #freeCodeCamp. Worked on PSet4 part 2(recover) of 
 @cs50. Learned DOM Manipulation from a course on Udemy. Happy with my progress today. 
+
+### Day 39: March 22, 2020.
+
+**Today's Progress:** Fiddled with some C code in Pset4 of @cs50. Still trying to figure it out. Learned some more DOM Manipulation today. I wouldn't call it a very productive day though.
