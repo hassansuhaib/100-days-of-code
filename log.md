@@ -205,3 +205,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 39: March 22, 2020.
 
 **Today's Progress:** Fiddled with some C code in Pset4 of @cs50. Still trying to figure it out. Learned some more DOM Manipulation today. I wouldn't call it a very productive day though.
+
+### Day 40: March 23, 2020. 
+
+**Today's Progress:** Learned about CSS variables and Events in JavaScript. Fixed the code in my Responsive Web Design projects at #freeCodeCamp. Still, two projects are left which I will hopefully do tomorrow! Wish me luck and happy coding! 
