@@ -209,3 +209,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 40: March 23, 2020. 
 
 **Today's Progress:** Learned about CSS variables and Events in JavaScript. Fixed the code in my Responsive Web Design projects at #freeCodeCamp. Still, two projects are left which I will hopefully do tomorrow! Wish me luck and happy coding! 
+
+### Day 41: March 24, 2020.
+
+**Today's Progress:** Made a cool color toggler exercise in #JavaScript. Pretty simple but still a big deal to me. Also learned more about Events & Event Listeners. Finished project 4 in Responsive Web Design at #freeCodeCamp. Made progress in notorious PSet 4 of @cs50 
