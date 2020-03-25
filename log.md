@@ -92,7 +92,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 
 **Thoughts:** At first I was intimidated and couldn't think of anything but then I started coding and came up with something half decent. I am trying my best to at least become able to make decent pages even using BootStrap but a person should be aware of the basic concepts of something that they are learning. I have become familiar with basic concepts but I keep forgetting the syntax and I am sure that as I keep learning and practicing, I will become an expert. It just takes time, patience and consistency.
 
-[Link to my lame tribute page :(](https://codepen.io/hassansuhaib/pen/eYNgWyR "My Tribute Page")
+[Link to my lame tribute page :(](https://codepen.io/hassansuhaib/pen/YzXOrmY "My Tribute Page")
 
 ### Day 14: February 26, 2020.
 
@@ -117,6 +117,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 18: March 1, 2020.
 
 **Today's Progress:** Completed project 2 @freecodecamp. Didn't work one the main tag whole heartedly because I was too tired and bored.
+[Link to my Survey Form](https://codepen.io/hassansuhaib/pen/vYOZejp "Survey Form")
 
 ### Day 19: March 2, 2020.
 
@@ -125,6 +126,7 @@ In pset4, we're required to applying filters on bmp image file. Those filters ar
 ### Day 20: March 3, 2020.
 
 **Today's Progress:** Finished Project 3 of Responsive Web Design @freeCodeCamp. Learned a lot doing this one. I'm getting better and fast at figuring out things. Also started the JavaScript portion and hope to complete it soon because most of my concepts of programming are already clear. Peace out ✌️
+[Link to my Product Landing Page](https://codepen.io/hassansuhaib/pen/gOpxWqz "Product Landing Page")
 
 ### Day 21: March 4, 2020.
 
@@ -213,3 +215,9 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 41: March 24, 2020.
 
 **Today's Progress:** Made a cool color toggler exercise in #JavaScript. Pretty simple but still a big deal to me. Also learned more about Events & Event Listeners. Finished project 4 in Responsive Web Design at #freeCodeCamp. Made progress in notorious PSet 4 of @cs50 
+[Link to my Technical Documentation Page](https://codepen.io/hassansuhaib/pen/dyogNWZ "Technical Documentation Page")
+
+### Day 42: March 25, 2020.
+
+**Today's Progress:** Wrote a small JavaScript code to count the number of events on the page of Event Reference at developer.Mozila. Finished project 5 i.e Personal Porfolio site and claimed my Responsive Web Design Certificate from freeCodeCamp. Got a little bit help from the tutorial videos of Florin Pop. I completed these projects just for the sake of completing them but now I hope that I will do them properly in the future with completeness. I learned a lot of stuff doing these projects and also from the lessons at freeCodeCamp. Also, I completed the notorious Pset4 of Harvard's CS50x and the best thing is that I did it completely myself. I will do 100Days100Projects when I am done learning the basic stuff. In Shaa Allah! Adios!
+[Link to my Personal Porfolio Page](https://codepen.io/hassansuhaib/pen/MWwPdGz "Personal Portfolio")
