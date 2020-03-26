@@ -221,3 +221,7 @@ Woah! 30% of the challenge is done already? Nice!
 
 **Today's Progress:** Wrote a small JavaScript code to count the number of events on the page of Event Reference at developer.Mozila. Finished project 5 i.e Personal Porfolio site and claimed my Responsive Web Design Certificate from freeCodeCamp. Got a little bit help from the tutorial videos of Florin Pop. I completed these projects just for the sake of completing them but now I hope that I will do them properly in the future with completeness. I learned a lot of stuff doing these projects and also from the lessons at freeCodeCamp. Also, I completed the notorious Pset4 of Harvard's CS50x and the best thing is that I did it completely myself. I will do 100Days100Projects when I am done learning the basic stuff. In Shaa Allah! Adios!
 [Link to my Personal Porfolio Page](https://codepen.io/hassansuhaib/pen/MWwPdGz "Personal Portfolio")
+
+### Day 43: March 26, 2020.
+
+**Today's Progress:** Colt taught how to make a color guessing game on Udemy. Now I am trying to imitate that game but I am not going to look at Colt's code and gonna do it totally myself to polish my skills in JavaScript. Had a very busy schedule today so I managed to write only a little amount of code but tomorrow I hope to complete that project!
