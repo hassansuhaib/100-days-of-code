@@ -225,3 +225,7 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 43: March 26, 2020.
 
 **Today's Progress:** Colt taught how to make a color guessing game on Udemy. Now I am trying to imitate that game but I am not going to look at Colt's code and gonna do it totally myself to polish my skills in JavaScript. Had a very busy schedule today so I managed to write only a little amount of code but tomorrow I hope to complete that project!
+
+### Day 44: March 27, 2020.
+
+**Today's Progress:** Worked on this ColorGuessingGame most of the time. The logic isn't complete yet and the code is all over the place because I am still a #codeNewbie in #JavaScript. Had so many interruptions today which rendered me unable to complete it today. I was stuck and had to get some help from Colt's videos. I am still getting used to how things work in DOM Manipulation and especially JavaScript because it's really weird in my opinion. It's so different from the conventional languages that I have been using like C, C++ and Java.
