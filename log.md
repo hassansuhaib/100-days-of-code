@@ -229,3 +229,9 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 44: March 27, 2020.
 
 **Today's Progress:** Worked on this ColorGuessingGame most of the time. The logic isn't complete yet and the code is all over the place because I am still a #codeNewbie in #JavaScript. Had so many interruptions today which rendered me unable to complete it today. I was stuck and had to get some help from Colt's videos. I am still getting used to how things work in DOM Manipulation and especially JavaScript because it's really weird in my opinion. It's so different from the conventional languages that I have been using like C, C++ and Java.
+
+### Day 45, March 28, 2020.
+
+**Today's Progress:** Completed my ColorGuessingGame today. Even though the idea wasn't mine but still learned a lot on the way and I feel more confident in #JavaScript and DOM Manipulation. 
+
+[Link to the Game](https://hassansuhaib.github.io/ColorGuessingGame/ "ColorGuessingGame")
