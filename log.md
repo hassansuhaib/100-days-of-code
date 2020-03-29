@@ -239,8 +239,8 @@ Woah! 30% of the challenge is done already? Nice!
 ### Day 46, March 29, 2020.
 
 **Today's Progress:**
--Revised ES6 at #freeCodeCamp 
--And started the chapter on Regex
--Learned about Git Log, Checkout and Revert from @udemy
--Learned about literals in Python at @cisco
+- Revised ES6 at #freeCodeCamp 
+- And started the chapter on Regex
+- Learned about Git Log, Checkout and Revert from @udemy
+- Learned about literals in Python at @cisco
  
