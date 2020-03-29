@@ -235,3 +235,12 @@ Woah! 30% of the challenge is done already? Nice!
 **Today's Progress:** Completed my ColorGuessingGame today. Even though the idea wasn't mine but still learned a lot on the way and I feel more confident in #JavaScript and DOM Manipulation. 
 
 [Link to the Game](https://hassansuhaib.github.io/ColorGuessingGame/ "ColorGuessingGame")
+
+### Day 46, March 29, 2020.
+
+**Today's Progress:**
+-Revised ES6 at #freeCodeCamp 
+-And started the chapter on Regex
+-Learned about Git Log, Checkout and Revert from @udemy
+-Learned about literals in Python at @cisco
+ 
