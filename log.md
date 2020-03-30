@@ -244,3 +244,8 @@ Woah! 30% of the challenge is done already? Nice!
 - Learned about Git Log, Checkout and Revert from @udemy
 - Learned about literals in Python at @cisco
  
+### Day 47, March 30, 2020.
+
+**Today's Progress:**
+- Took some lectures on Bootstrap at @udemy
+- Completed the chapter on Regex at @freecodecamp
