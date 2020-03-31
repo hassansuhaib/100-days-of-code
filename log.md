@@ -249,3 +249,10 @@ Woah! 30% of the challenge is done already? Nice!
 **Today's Progress:**
 - Took some lectures on Bootstrap at @udemy
 - Completed the chapter on Regex at @freecodecamp
+
+### Day 48, March 31, 2020.
+
+**Today's Progress:** 
+- Completed the lectures on Bootstrap 3 at @udemy 
+- Understood the Grid System in it.
+- Completed the chapter on @freeCodeCamp 
