@@ -265,3 +265,10 @@ Woah! 30% of the challenge is done already? Nice!
 - Made a replica of the Image Gallery by Colt Steele
 
 [Link to the Image Gallery](https://hassansuhaib.github.io/ImageGallery/ "The Image Gallery")
+
+### Day 50, April 2nd, 2020.
+
+**Today's Progress:**
+- Finished a Chapter on Bootstrap 4 at @udemy 
+- Coded 5 algorithms in Basic Algorithm Scripting at @freeCodeCamp. The only thing I looked up was the String.split() and the String.join() methods.
+
