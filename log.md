@@ -272,3 +272,11 @@ Woah! 30% of the challenge is done already? Nice!
 - Finished a Chapter on Bootstrap 4 at @udemy 
 - Coded 5 algorithms in Basic Algorithm Scripting at @freeCodeCamp. The only thing I looked up was the String.split() and the String.join() methods.
 
+**50% of the #100DaysOfCode challenge is complete.**
+- I am more confident in HTML & CSS
+- I am comfortable using #JavaScript (still learning)
+- I know DOM Manipulation
+- I can use Bootstrap
+- I know Git and GitHub (I've got 5 repositories now)
+- I'm not intimidated by filing in C.
+
