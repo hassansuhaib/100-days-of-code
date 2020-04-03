@@ -280,3 +280,9 @@ Woah! 30% of the challenge is done already? Nice!
 - I know Git and GitHub (I've got 5 repositories now)
 - I'm not intimidated by filing in C.
 
+### Day 51, Arpil 3rd, 2020.
+
+**Today's Progress:**
+- Understood the flex system in Bootstrap 4
+- Wrote code for 3 algorithms in Basic Algorithm Scripting at #freeCodeCamp
+
