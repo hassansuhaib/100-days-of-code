@@ -286,3 +286,9 @@ Woah! 30% of the challenge is done already? Nice!
 - Understood the flex system in Bootstrap 4
 - Wrote code for 3 algorithms in Basic Algorithm Scripting at #freeCodeCamp
 
+### Day 52, April 4th, 2020.
+
+**Today's Progress:**
+- Did some problems of Basic Algorithm Scripting
+- Took lectures on BootStrap 4
+- Coded a trivial website in BootStrap 4
