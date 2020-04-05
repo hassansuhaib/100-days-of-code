@@ -292,3 +292,9 @@ Woah! 30% of the challenge is done already? Nice!
 - Did some problems of Basic Algorithm Scripting
 - Took lectures on BootStrap 4
 - Coded a trivial website in BootStrap 4
+
+### Day 53, April 5, 2020.
+
+**Today's Progress:**
+- Completed Basic Algorithm Scripting at #FreeCodeCamp
+- Practiced Bootstrap 4
