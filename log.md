@@ -298,3 +298,8 @@ Woah! 30% of the challenge is done already? Nice!
 **Today's Progress:**
 - Completed Basic Algorithm Scripting at #FreeCodeCamp
 - Practiced Bootstrap 4
+
+### Day 54, April 6, 2020.
+
+**Today's Progress:** 
+I did 50% of the Object-Oriented Programming part of #JavaScript at #freeCodeCamp and practiced a little bit of Bootstrap. Going a bit slow these days because I was getting too much exhausted.
