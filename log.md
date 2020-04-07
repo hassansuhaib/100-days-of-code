@@ -303,3 +303,8 @@ Woah! 30% of the challenge is done already? Nice!
 
 **Today's Progress:** 
 I did 50% of the Object-Oriented Programming part of #JavaScript at #freeCodeCamp and practiced a little bit of Bootstrap. Going a bit slow these days because I was getting too much exhausted.
+
+### Day 55, April 7, 2020.
+
+**Today's Progress:**
+-Finished the Object-Oriented Programming part of JavaScript at freeCodeCamp.
