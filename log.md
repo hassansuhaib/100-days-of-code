@@ -230,13 +230,13 @@ Woah! 30% of the challenge is done already? Nice!
 
 **Today's Progress:** Worked on this ColorGuessingGame most of the time. The logic isn't complete yet and the code is all over the place because I am still a #codeNewbie in #JavaScript. Had so many interruptions today which rendered me unable to complete it today. I was stuck and had to get some help from Colt's videos. I am still getting used to how things work in DOM Manipulation and especially JavaScript because it's really weird in my opinion. It's so different from the conventional languages that I have been using like C, C++ and Java.
 
-### Day 45, March 28, 2020.
+### Day 45: March 28, 2020.
 
 **Today's Progress:** Completed my ColorGuessingGame today. Even though the idea wasn't mine but still learned a lot on the way and I feel more confident in #JavaScript and DOM Manipulation. 
 
 [Link to the Game](https://hassansuhaib.github.io/ColorGuessingGame/ "ColorGuessingGame")
 
-### Day 46, March 29, 2020.
+### Day 46: March 29, 2020.
 
 **Today's Progress:**
 - Revised ES6 at #freeCodeCamp 
@@ -244,20 +244,20 @@ Woah! 30% of the challenge is done already? Nice!
 - Learned about Git Log, Checkout and Revert from @udemy
 - Learned about literals in Python at @cisco
  
-### Day 47, March 30, 2020.
+### Day 47: March 30, 2020.
 
 **Today's Progress:**
 - Took some lectures on Bootstrap at @udemy
 - Completed the chapter on Regex at @freecodecamp
 
-### Day 48, March 31, 2020.
+### Day 48: March 31, 2020.
 
 **Today's Progress:** 
 - Completed the lectures on Bootstrap 3 at @udemy 
 - Understood the Grid System in it.
 - Completed the chapter on @freeCodeCamp 
 
-### Day 49, April 1st, 2020.
+### Day 49: April 1st, 2020.
 
 **Today's Progress:**
 - Completed Basic Data Structures on @freeCodeCamp 
@@ -266,7 +266,7 @@ Woah! 30% of the challenge is done already? Nice!
 
 [Link to the Image Gallery](https://hassansuhaib.github.io/ImageGallery/ "The Image Gallery")
 
-### Day 50, April 2nd, 2020.
+### Day 50: April 2nd, 2020.
 
 **Today's Progress:**
 - Finished a Chapter on Bootstrap 4 at @udemy 
@@ -280,31 +280,39 @@ Woah! 30% of the challenge is done already? Nice!
 - I know Git and GitHub (I've got 5 repositories now)
 - I'm not intimidated by filing in C.
 
-### Day 51, Arpil 3rd, 2020.
+### Day 51: Arpil 3rd, 2020.
 
 **Today's Progress:**
 - Understood the flex system in Bootstrap 4
 - Wrote code for 3 algorithms in Basic Algorithm Scripting at #freeCodeCamp
 
-### Day 52, April 4th, 2020.
+### Day 52: April 4th, 2020.
 
 **Today's Progress:**
 - Did some problems of Basic Algorithm Scripting
 - Took lectures on BootStrap 4
 - Coded a trivial website in BootStrap 4
 
-### Day 53, April 5, 2020.
+### Day 53: April 5, 2020.
 
 **Today's Progress:**
 - Completed Basic Algorithm Scripting at #FreeCodeCamp
 - Practiced Bootstrap 4
 
-### Day 54, April 6, 2020.
+### Day 54: April 6, 2020.
 
 **Today's Progress:** 
 I did 50% of the Object-Oriented Programming part of #JavaScript at #freeCodeCamp and practiced a little bit of Bootstrap. Going a bit slow these days because I was getting too much exhausted.
 
-### Day 55, April 7, 2020.
+### Day 55: April 7, 2020.
 
 **Today's Progress:**
--Finished the Object-Oriented Programming part of JavaScript at freeCodeCamp.
+- Finished the Object-Oriented Programming part of JavaScript at freeCodeCamp.
+
+### Day 56: April 8, 2020.
+
+**Today's Progress:**
+- Started Functional Programing in JavaScript at FreeCodeCamp.
+- Started a course on JavaScript on PluralSight.
+
+I started a new course on JavaScirpt because I don't think I have a grip on JavaScript concepts so much and I want to revise it from another source.
