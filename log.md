@@ -316,3 +316,14 @@ I did 50% of the Object-Oriented Programming part of #JavaScript at #freeCodeCam
 - Started a course on JavaScript on PluralSight.
 
 I started a new course on JavaScirpt because I don't think I have a grip on JavaScript concepts so much and I want to revise it from another source.
+
+### Day 57: April 9, 2020.
+
+**Today's Progress:**
+- Continued JavaScript revision on PluralSight
+- Learned new methods of Arrays in JavaScript:
+  - Array.fill()
+  - Array.of()
+  - Array.find() and Array.findIndex()
+  - Array.forEach()
+  - Spread operator
