@@ -327,3 +327,8 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
   - Array.find() and Array.findIndex()
   - Array.forEach()
   - Spread operator
+### Day 58: April 10, 2020.
+
+**Today's Progress:**
+- Finished two modules on JavaScript on PluratSight
+- Learned a bit about Set
