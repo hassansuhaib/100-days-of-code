@@ -332,3 +332,9 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 **Today's Progress:**
 - Finished two modules on JavaScript on PluratSight
 - Learned a bit about Set
+
+### Day 59: April 11, 2020.
+
+**Today's Progress:**
+- Completed the course JavaScript: Getting Started by Mark Zamoyta on PluralSight that means the basic revision of JavaScirpt is complete.
+- Did three challenges of Functional Programming on FCC
