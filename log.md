@@ -338,3 +338,9 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 **Today's Progress:**
 - Completed the course JavaScript: Getting Started by Mark Zamoyta on PluralSight that means the basic revision of JavaScirpt is complete.
 - Did three challenges of Functional Programming on FCC
+
+### Day 60: April 12, 2020.
+
+**Today's Progress:**
+- Finished 6 sections of JavaScript Bootcamp by Andrew Mead at Udemy
+- Wrote lots of code for the mini challenges in the course
