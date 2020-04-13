@@ -344,3 +344,9 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 **Today's Progress:**
 - Finished 6 sections of JavaScript Bootcamp by Andrew Mead at Udemy
 - Wrote lots of code for the mini challenges in the course
+
+### Day 61: April 13, 2020.
+
+**Today's Progress:**
+- Finished Section 7 on Arrays in my JavaScript course.
+- Worked with objects and methods of ararys like filter, forEach, findIndex, IndexOf and I really enjoyed it!
