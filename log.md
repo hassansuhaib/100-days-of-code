@@ -350,3 +350,11 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 **Today's Progress:**
 - Finished Section 7 on Arrays in my JavaScript course.
 - Worked with objects and methods of ararys like filter, forEach, findIndex, IndexOf and I really enjoyed it!
+
+### Day 62: April 14, 2020.
+
+**Today's Progress:**
+- Spent time practicing DOM manipulation.
+- Worked with real-time rendering i.e searching for a certain todo from the list.
+- Learned how to create HTML elements using JavaScript.
+- Got comfortable with array.filter() now.
