@@ -366,3 +366,12 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Spent more time learning DOM Manipulation, this time some advanced stuff
 - Learned how to add new TODOs and search for the existing ones in my TODO app in JavaScript
 **This is the first time in 60 days that I forgot to update this file on time**
+
+### Day 64: April 16, 2020.
+
+**Today's Progress:**
+- Learned how to use browser's local storage to Create, Read, Update and Delete(CRUD) our data.
+- Learned how to refactor code into functions in a separate JS file
+- Learned how to debug our code using console.log() and debugger
+- Learned how to generate a unique id for individual data uisng a third party library
+- Did some complex DOM Manipulation
