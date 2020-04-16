@@ -358,3 +358,11 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Worked with real-time rendering i.e searching for a certain todo from the list.
 - Learned how to create HTML elements using JavaScript.
 - Got comfortable with array.filter() now.
+
+### Day 63: April 15, 2020.
+
+**Today's Progress:**
+- Started working on the notoroious PSet 5 named Speller of CS50 in C
+- Spent more time learning DOM Manipulation, this time some advanced stuff
+- Learned how to add new TODOs and search for the existing ones in my TODO app in JavaScript
+**This is the first time in 60 days that I forgot to update this file on time**
