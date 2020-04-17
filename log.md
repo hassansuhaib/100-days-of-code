@@ -375,3 +375,10 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Learned how to debug our code using console.log() and debugger
 - Learned how to generate a unique id for individual data uisng a third party library
 - Did some complex DOM Manipulation
+
+### Day 65: April 17, 2020
+
+**Today's Progress:**
+- Practiced a lot of complex DOM Manipulation
+- Learned how to keep the data updated if it is open in multiple windows
+- Learned the use of Date object
