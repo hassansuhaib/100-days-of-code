@@ -376,9 +376,18 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Learned how to generate a unique id for individual data uisng a third party library
 - Did some complex DOM Manipulation
 
-### Day 65: April 17, 2020
+### Day 65: April 17, 2020.
 
 **Today's Progress:**
 - Practiced a lot of complex DOM Manipulation
 - Learned how to keep the data updated if it is open in multiple windows
 - Learned the use of Date object
+
+### Day 66: April 18, 2020.
+
+**Today's Progress:**
+- Finished Section 8 of my JavaScript Course
+- Learned:
+  - integrating dates in your code
+  - about MomentJS Library and how to use it
+  - three different sorting ways i.e by modified, created and alphabetical
