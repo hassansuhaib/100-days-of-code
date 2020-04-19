@@ -391,3 +391,10 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
   - integrating dates in your code
   - about MomentJS Library and how to use it
   - three different sorting ways i.e by modified, created and alphabetical
+
+### Day 67: April 19, 2020.
+
+**Today's Progres:**
+- Learned about arrow functions, I have learnt them before but today I practiced them under the guidance of Andrew
+- Learned about Ternary Operators
+- Practiced these by modifying previous code and replacing old code with new code using arrow functions and ternary operators
