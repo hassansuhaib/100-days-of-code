@@ -410,3 +410,14 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
  - Working in Strict Mode
  - Constructor Function and they can be used to create new objects
  - Prototype Object to store values and mostly functions on a global level
+
+### Day 69: April 21, 2020.
+
+**Today's Progress:**
+- Completed Section 10 i.e Advanced Objects and Functions in JavaScript
+- Learned: 
+ - Behind the scenes of Prototype(Inhertiance)
+ - The Class syntax
+ - Creating Sub Classes
+ - Getters and Setters
+- Built a basic Hangman Game
