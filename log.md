@@ -394,7 +394,19 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 
 ### Day 67: April 19, 2020.
 
-**Today's Progres:**
+**Today's Progress:**
 - Learned about arrow functions, I have learnt them before but today I practiced them under the guidance of Andrew
 - Learned about Ternary Operators
 - Practiced these by modifying previous code and replacing old code with new code using arrow functions and ternary operators
+
+### Day 68: April 20, 2020.
+
+**Today's Progress:**
+- Completed Section 9 and started Section 10 of my JavaScript course
+- Learned:
+ - Ternary Operators and when it's best to use them
+ - Truthy and Falsy values and how we can use them in conditional statements and avoid comparison
+ - Catching and throwing errors in JavaScript
+ - Working in Strict Mode
+ - Constructor Function and they can be used to create new objects
+ - Prototype Object to store values and mostly functions on a global level
