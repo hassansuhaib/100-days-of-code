@@ -421,3 +421,15 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
  - Creating Sub Classes
  - Getters and Setters
 - Built a basic Hangman Game
+
+### Day 70: April 22, 2020.
+
+**Today's Progress:**
+- Learned: 
+ - How to make an HTTP request
+ - How to work with EvenListener for readystatechange
+ - How to handle errors with these requests 
+ - How to use data from other APIs
+ - How to use callback abstraction
+ - The difference between Synchronous and Asynchronous Execution
+ - How to use the closure property
