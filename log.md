@@ -433,3 +433,15 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
  - How to use callback abstraction
  - The difference between Synchronous and Asynchronous Execution
  - How to use the closure property
+
+### Day 71: April 23, 2020.
+
+**Today's Progress:**
+1. Completed Section 11 i.e. Asynchronous JavaScript
+2. Learned:
+ - Using Promises
+ - Chaining them
+ - Fetch API
+ - Async/Await
+3. Integrated all this knowledge in the Hangman Game
+4. Also used the IPinfo and RestCountries API
