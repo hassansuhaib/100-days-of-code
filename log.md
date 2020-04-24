@@ -445,3 +445,9 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
  - Async/Await
 3. Integrated all this knowledge in the Hangman Game
 4. Also used the IPinfo and RestCountries API
+
+### Day 72: April 24, 2020.
+
+**Today's Progress:**
+- Completed Section 12 i.e. App Themes
+- Gave a little life to the Notes App and Hangman game
