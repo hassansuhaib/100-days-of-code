@@ -451,3 +451,10 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 **Today's Progress:**
 - Completed Section 12 i.e. App Themes
 - Gave a little life to the Notes App and Hangman game
+
+### Day 73: April 25, 2020.
+
+**Today's Progres:**
+- Completed Functional Programming on #freeCodeCamp
+- Solved three Intermediate Algorithm Scripts in JavaScript
+- Gave some style to my Todos-App
