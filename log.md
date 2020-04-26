@@ -458,3 +458,10 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Completed Functional Programming on #freeCodeCamp
 - Solved three Intermediate Algorithm Scripts in JavaScript
 - Gave some style to my Todos-App
+
+### Day 74: April 26, 2020.
+
+**Today's Progress:**
+- Learned about Babel and Webpack
+- Did a little bit of Intermediate Alogrithm Scripting on FCC
+- Learned a bit about CSS
