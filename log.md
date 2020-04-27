@@ -465,3 +465,12 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Learned about Babel and Webpack
 - Did a little bit of Intermediate Alogrithm Scripting on FCC
 - Learned a bit about CSS
+
+### Day 75: April 27, 2020.
+
+**Today's Progress:**
+- Learned about CSS positioning
+- Learned when to use rem vs px
+- Learned how to setup a whole project using babel and webpack
+- Learned how to import modules in this scenario using npm install
+- Learned how to use multiple html files in this scenario
