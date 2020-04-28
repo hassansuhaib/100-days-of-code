@@ -474,3 +474,10 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Learned how to setup a whole project using babel and webpack
 - Learned how to import modules in this scenario using npm install
 - Learned how to use multiple html files in this scenario
+
+### Day 76: April 28, 2020.
+
+**Today's Progress:**
+- Did some coding in C to solve PSet5 of CS50
+- Converted my notes app into a better version that uses modules
+- Learned how to further refactor the code into a better one.
