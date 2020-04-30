@@ -481,3 +481,8 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 - Did some coding in C to solve PSet5 of CS50
 - Converted my notes app into a better version that uses modules
 - Learned how to further refactor the code into a better one.
+
+### Day 77: April 29, 2020.
+
+**Today's Progress:**
+Spent the whole day working on Problem Set 5: Speller of @cs50 in C. I have completed it's logic but for some reason, check50 isn't marking it right. I am still figuring that out.
