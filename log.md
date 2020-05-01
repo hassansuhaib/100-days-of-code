@@ -485,4 +485,18 @@ I started a new course on JavaScirpt because I don't think I have a grip on Java
 ### Day 77: April 29, 2020.
 
 **Today's Progress:**
+- Completed JS Bootcamp by @andrew_j_mead
+ on @udemy
+. This single tweet can't encompass the amount of stuff that I have learned.
+- Converted the Todos-app into a modular version
+- Learned about Rest and Spread operators, and destructuring.
+
+### Day 78: April 30, 2020.
+
+**Today's Progress:**
 Spent the whole day working on Problem Set 5: Speller of @cs50 in C. I have completed it's logic but for some reason, check50 isn't marking it right. I am still figuring that out.
+
+### Day 79: May 1, 2020.
+
+**Today's Progress:**
+- Completed the HTML and CSS part of my Todos App. Will work on the JavaScript part tomorrow!
