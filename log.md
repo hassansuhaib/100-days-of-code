@@ -500,3 +500,13 @@ Spent the whole day working on Problem Set 5: Speller of @cs50 in C. I have comp
 
 **Today's Progress:**
 - Completed the HTML and CSS part of my Todos App. Will work on the JavaScript part tomorrow!
+
+### Day 80: May 2, 2020.
+
+**Today's Progress**
+- Worked on the JavaScript part of my Recipe App. Turns out you frequently get stuck when you do unguided projects 
+Face with tongue
+ Part of the learning process though!
+- I wrote an article, my first in fact.
+
+[Link to the article](https://dev.to/hassansuhaib/did-my-computer-science-degree-help-me-3ke2 "Did my CS Degree help me?")
