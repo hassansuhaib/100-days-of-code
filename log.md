@@ -503,10 +503,20 @@ Spent the whole day working on Problem Set 5: Speller of @cs50 in C. I have comp
 
 ### Day 80: May 2, 2020.
 
-**Today's Progress**
+**Today's Progress:**
 - Worked on the JavaScript part of my Recipe App. Turns out you frequently get stuck when you do unguided projects 
 Face with tongue
  Part of the learning process though!
 - I wrote an article, my first in fact.
 
 [Link to the article](https://dev.to/hassansuhaib/did-my-computer-science-degree-help-me-3ke2 "Did my CS Degree help me?")
+
+### Day 81: May 3, 2020.
+
+**Today's Progress:**
+Continued working on my Recipe app. It's taking more time than I expected but I'm learning tons of stuff along the way. Instead of referencing old code, I'm using MDN to look up stuff to retain the knowledge better.
+
+### Day 82: May 4, 2020.
+
+**Today's Progress:**
+My application is getting close to a working state. Fixed a lot of bugs today but still there are some left. Will tackle the rest tomorrow. I am learning a lot!
