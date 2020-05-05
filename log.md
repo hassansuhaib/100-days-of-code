@@ -520,3 +520,9 @@ Continued working on my Recipe app. It's taking more time than I expected but I'
 
 **Today's Progress:**
 My application is getting close to a working state. Fixed a lot of bugs today but still there are some left. Will tackle the rest tomorrow. I am learning a lot!
+
+### Day 83: May 5, 2020.
+
+**Today's Progress:**
+Finished building my recipe app. Learned a lot of trivial stuff that you ignore while coding along with a tutorial. The app is mainly styled for desktop but I did tweak it a bit for mobile. 
+[Link to my app](app.recipe.hassansuhaib.com "My Recipe App")
