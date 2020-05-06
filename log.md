@@ -526,3 +526,11 @@ My application is getting close to a working state. Fixed a lot of bugs today bu
 **Today's Progress:**
 Finished building my recipe app. Learned a lot of trivial stuff that you ignore while coding along with a tutorial. The app is mainly styled for desktop but I did tweak it a bit for mobile. 
 [Link to my app](app.recipe.hassansuhaib.com "My Recipe App")
+
+### Day 84: May 6, 2020.
+
+**Today's Progress:**
+- Solved Problem Set 5 of @cs50
+ in C. It took me a whole day to find and fix the bugs. I am soooo happy!
+- Worked on my next article.
+Will start working in Python tomorrow
