@@ -534,3 +534,12 @@ Finished building my recipe app. Learned a lot of trivial stuff that you ignore 
  in C. It took me a whole day to find and fix the bugs. I am soooo happy!
 - Worked on my next article.
 Will start working in Python tomorrow
+
+### Day 86: May 7, 2020.
+
+**Today's Progress:**
+- Took lecture 6 which was on Python in @cs50
+ and learned the syntax of python. Having knowledge of JavaScript really helped me here.
+- Wrote my second article on @ThePracticalDev
+
+[Link to my article](https://dev.to/hassansuhaib/i-made-my-first-app-in-javascript-1jjf)
