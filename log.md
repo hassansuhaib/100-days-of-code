@@ -535,7 +535,7 @@ Finished building my recipe app. Learned a lot of trivial stuff that you ignore 
 - Worked on my next article.
 Will start working in Python tomorrow
 
-### Day 86: May 7, 2020.
+### Day 85: May 7, 2020.
 
 **Today's Progress:**
 - Took lecture 6 which was on Python in @cs50
@@ -543,3 +543,9 @@ Will start working in Python tomorrow
 - Wrote my second article on @ThePracticalDev
 
 [Link to my article](https://dev.to/hassansuhaib/i-made-my-first-app-in-javascript-1jjf)
+
+### Day 86: May 8, 2020.
+
+**Today's Progress:**
+- Worked in Python on Pset6 of @cs50. Getting used to the syntax of Python.
+- I started building my own website. I am learning tons of stuff related to CSS. I plan to add animations.
