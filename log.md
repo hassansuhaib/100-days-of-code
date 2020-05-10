@@ -549,3 +549,20 @@ Will start working in Python tomorrow
 **Today's Progress:**
 - Worked in Python on Pset6 of @cs50. Getting used to the syntax of Python.
 - I started building my own website. I am learning tons of stuff related to CSS. I plan to add animations.
+
+### Day 87: May 9, 2020.
+
+**Today's Progress:**
+- Solved Credit and Readability of Problem Set 6 of @cs50
+ in Python.
+- Learned some regex
+- Worked on my personal website. Made some subtle changes.
+- Used SVGs to make it look cool
+- Worked on making it responsive
+
+### Day 88: May 10, 2020.
+
+**Today's Progress:**
+- Completed building an initial version of my website. I will add animations and more functionality late.
+Check it out at [hassansuhaib](hassansuhaib.com)
+- Worked on DNA in Pset6 of @cs50 in Python. FBI can hire me now
