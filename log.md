@@ -566,3 +566,10 @@ Will start working in Python tomorrow
 - Completed building an initial version of my website. I will add animations and more functionality late.
 Check it out at [hassansuhaib](hassansuhaib.com)
 - Worked on DNA in Pset6 of @cs50 in Python. FBI can hire me now
+
+### Day 89: May 11, 2020.
+
+**Today's Progress:**
+- Finished Problem Set 6: DNA of @cs50 in Python.
+- Worked on a website in Bootstrap 4
+- Started writing an article.
