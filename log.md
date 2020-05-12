@@ -573,3 +573,10 @@ Check it out at [hassansuhaib](hassansuhaib.com)
 - Finished Problem Set 6: DNA of @cs50 in Python.
 - Worked on a website in Bootstrap 4
 - Started writing an article.
+
+### Day 90: May 12, 2020.
+
+**Today's Progress:**
+I can't believe it's been three months of constant coding and for a person like me, it's phenomenal!
+- Today I revised SQL in Lecture 7 of @cs50. 
+- I also worked on a website using Bootstrap 4. Thinking of switching back to pure CSS.
