@@ -577,6 +577,13 @@ Check it out at [hassansuhaib](hassansuhaib.com)
 ### Day 90: May 12, 2020.
 
 **Today's Progress:**
+
 I can't believe it's been three months of constant coding and for a person like me, it's phenomenal!
 - Today I revised SQL in Lecture 7 of @cs50. 
 - I also worked on a website using Bootstrap 4. Thinking of switching back to pure CSS.
+
+### Day 91: May 13, 2020.
+
+**Today's Progress:**
+
+Spent the whole day practicing SQL by solving Problem Set 7: Movies of @cs50. I've gotten so much better. 
