@@ -585,5 +585,11 @@ I can't believe it's been three months of constant coding and for a person like 
 ### Day 91: May 13, 2020.
 
 **Today's Progress:**
-
 Spent the whole day practicing SQL by solving Problem Set 7: Movies of @cs50. I've gotten so much better. 
+
+### Day 92: May 14, 2020.
+
+**Today's Progress:**
+- Finished Problem Set 7 of #cs50 in SQL
+- Learned how to work with SQL in Python using sqlite3
+- Learned some CSS positioning and converted a website from Bootstrap 4 to pure CSS
