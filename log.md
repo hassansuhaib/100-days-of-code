@@ -593,3 +593,9 @@ Spent the whole day practicing SQL by solving Problem Set 7: Movies of @cs50. I'
 - Finished Problem Set 7 of #cs50 in SQL
 - Learned how to work with SQL in Python using sqlite3
 - Learned some CSS positioning and converted a website from Bootstrap 4 to pure CSS
+
+### Day 93: May 15, 2020.
+
+**Today's Progress:**
+- Made front-end of Tic Tac Toe with CSS and JavaScript game for a friend's project in Artificial Intelligence.
+- Learned how to use Grid for the first time.
