@@ -599,3 +599,9 @@ Spent the whole day practicing SQL by solving Problem Set 7: Movies of @cs50. I'
 **Today's Progress:**
 - Made front-end of Tic Tac Toe with CSS and JavaScript game for a friend's project in Artificial Intelligence.
 - Learned how to use Grid for the first time.
+
+### Day 94: May 16, 2020.
+
+**Today's Progress:**
+- Today I learned Python's framework Flask as a part of @cs50's web track. 
+- Completed the first part of Problem Set 8. Learned how to make an application in Flask and how to set it up with a database using SQLite3.
