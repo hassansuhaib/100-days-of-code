@@ -605,3 +605,13 @@ Spent the whole day practicing SQL by solving Problem Set 7: Movies of @cs50. I'
 **Today's Progress:**
 - Today I learned Python's framework Flask as a part of @cs50's web track. 
 - Completed the first part of Problem Set 8. Learned how to make an application in Flask and how to set it up with a database using SQLite3.
+
+### Day 95: May 17, 2020.
+
+**Today's Progress:**
+Worked on Problem Set 8 i.e. Finance of @cs50. I have to use Flask to complete the functionality of this web application in which the user can buy and sell stock using an API. I could've completed it today but I am new to Flask and MySQL.
+
+### Day 96: May 18, 2020.
+
+**Today's Progress:**
+Continued working on part 2 of the Finance Application of Pset8 in #cs50. I'm loving working with MySQL in Python. I will focus on JavaScript after this course. Will learn Flask in detail later in CS50 Web.
