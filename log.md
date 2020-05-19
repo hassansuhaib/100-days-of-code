@@ -615,3 +615,8 @@ Worked on Problem Set 8 i.e. Finance of @cs50. I have to use Flask to complete t
 
 **Today's Progress:**
 Continued working on part 2 of the Finance Application of Pset8 in #cs50. I'm loving working with MySQL in Python. I will focus on JavaScript after this course. Will learn Flask in detail later in CS50 Web.
+
+### Day 97: May 19, 2020.
+
+**Today's Progress:**
+Almost done with the @CS50's Finance App. Was very busy today so I couldn't spend a lot of time on coding. I'm hoping that I finish it tomorrow and then start working on the Final Project. Wish me luck!
