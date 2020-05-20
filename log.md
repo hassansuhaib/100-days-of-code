@@ -620,3 +620,8 @@ Continued working on part 2 of the Finance Application of Pset8 in #cs50. I'm lo
 
 **Today's Progress:**
 Almost done with the @CS50's Finance App. Was very busy today so I couldn't spend a lot of time on coding. I'm hoping that I finish it tomorrow and then start working on the Final Project. Wish me luck!
+
+### Day 98: May 20, 2020.
+
+**Today's Progress:**
+Completed the @cs50's Finance App in Python, Flask, and SQLITE3. I learned tons of new stuff. Now only the Final Project is left. I will do it in CSS and JavaScript because I am not comfortable with Flask yet.
