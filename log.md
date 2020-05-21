@@ -625,3 +625,8 @@ Almost done with the @CS50's Finance App. Was very busy today so I couldn't spen
 
 **Today's Progress:**
 Completed the @cs50's Finance App in Python, Flask, and SQLITE3. I learned tons of new stuff. Now only the Final Project is left. I will do it in CSS and JavaScript because I am not comfortable with Flask yet.
+
+### Day 99: May 21, 2020.
+
+**Today's Progress:**
+Today I started building the Final Project using CSS, JavaScript, Bootstrap, Python, Flask, and SQLITE3. Yeah, I know that's a lot but I will gain experience and skill. I wanna end #100DaysOfCode with a bang.
